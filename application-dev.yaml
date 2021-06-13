@@ -1,2 +1,2 @@
-test: 
-	info: application-dev.yaml
+config: 
+ info: application-dev.yaml
