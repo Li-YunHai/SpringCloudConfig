@@ -1,2 +1,2 @@
 config: 
- info: application-prod.yaml
+ info: config-prod.yml
